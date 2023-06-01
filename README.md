@@ -1,11 +1,11 @@
 # ВТОРА ЛАБОРАТОРИСКА ВЕЖБА ПО СОФТВЕРСКО ИНЖЕНЕРСТВО
 Мартина Михова, бр. на индекс 213181
 # Control Flow Graph
-![graph](https://github.com/MartinaMihova/SI_2023_lab2_213181/assets/129439130/d48e635e-0ab8-44ab-9abd-e084ae7fd752)
+![GRAPH](graph.png)
 # Цикломатска комплетност
 Цикломатската комплетност е 11 ,ја добив на тој начин што го изброив бројот на региони.Цикломатската комплетност може да се добие и според формулата 
 Е-N+2=35-26+2=11
 # Тест случаи според критериумот Every statement
-![every branch](https://github.com/MartinaMihova/SI_2023_lab2_213181/assets/129439130/777fa654-447f-48c8-b5c3-ae1dc5ed999e)
+![EVERYBRANCH](EveryBranch.png)
 
 
